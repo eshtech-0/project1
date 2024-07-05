@@ -1,0 +1,42 @@
+*{
+    margin:0%;
+}
+img{
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+}
+body{
+    background-color: hsl(0, 0%, 8%);
+}
+.container{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: hsl(0, 0%, 20%);
+    margin:auto;
+    width:300px;
+}
+.container h1{
+    color: white;
+}
+.container p{
+    Font-size : 14px;
+    color: yellow;
+}
+button{
+    font-weight: 700;
+    margin: 7px;
+    padding: 10px;
+    width:80%;
+    border-radius: 7px;
+    background-color: hsl(0, 0%, 12%);
+    color: white;
+}
+footer{
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+    width: 300px;
+    color: white;
+}
